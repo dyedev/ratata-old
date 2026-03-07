@@ -5,7 +5,7 @@
     "": {
       "name": "@dyedev/ratata",
       "dependencies": {
-        "@lucide/svelte": "^0.526.0",
+        "@lucide/svelte": "^0.577.0",
         "svelte": "^5.22.5",
       },
       "devDependencies": {
@@ -134,7 +134,7 @@
 
     "@jridgewell/trace-mapping": ["@jridgewell/trace-mapping@0.3.31", "", { "dependencies": { "@jridgewell/resolve-uri": "^3.1.0", "@jridgewell/sourcemap-codec": "^1.4.14" } }, "sha512-zzNR+SdQSDJzc8joaeP8QQoCQr8NuYx2dIIytl1QeBEZHJ9uW6hebsrYgbz8hJwUQao3TWCMtmfV8Nu1twOLAw=="],
 
-    "@lucide/svelte": ["@lucide/svelte@0.526.0", "", { "peerDependencies": { "svelte": "^5" } }, "sha512-D0pRA/tTLajPFok7gr5+bMeGeEsszAJOSx02i/jPuiGiakj1DHj3D+OEjTyYLeSHAYOmRu5AdWZB/Ft01tdAUQ=="],
+    "@lucide/svelte": ["@lucide/svelte@0.577.0", "", { "peerDependencies": { "svelte": "^5" } }, "sha512-0P6mkySd2MapIEgq08tADPmcN4DHndC/02PWwaLkOerXlx5Sv9aT4BxyXLIY+eccr0g/nEyCYiJesqS61YdBZQ=="],
 
     "@module-federation/error-codes": ["@module-federation/error-codes@0.22.0", "", {}, "sha512-xF9SjnEy7vTdx+xekjPCV5cIHOGCkdn3pIxo9vU7gEZMIw0SvAEdsy6Uh17xaCpm8V0FWvR0SZoK9Ik6jGOaug=="],
 
