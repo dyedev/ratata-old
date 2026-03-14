@@ -11,7 +11,7 @@
       "devDependencies": {
         "@eslint/js": "9.39.4",
         "@rsbuild/core": "1.7.3",
-        "@rsbuild/plugin-svelte": "1.1.0",
+        "@rsbuild/plugin-svelte": "1.1.1",
         "@rspack/binding": "1.7.8",
         "@sveltejs/vite-plugin-svelte": "6.2.4",
         "@sveltejs/vite-plugin-svelte-inspector": "5.0.2",
@@ -198,7 +198,7 @@
 
     "@rsbuild/core": ["@rsbuild/core@1.7.3", "", { "dependencies": { "@rspack/core": "~1.7.5", "@rspack/lite-tapable": "~1.1.0", "@swc/helpers": "^0.5.18", "core-js": "~3.47.0", "jiti": "^2.6.1" }, "bin": { "rsbuild": "bin/rsbuild.js" } }, "sha512-kI1oQvCXbQYxUvQPnDLdjSX4gFsbrFNpuUj6jXEJ7IcJ74Q+n4oeFj74/8tKerhxhe0L90m/ZQfzLeN5ORGA9w=="],
 
-    "@rsbuild/plugin-svelte": ["@rsbuild/plugin-svelte@1.1.0", "", { "dependencies": { "svelte-loader": "3.2.4", "svelte-preprocess": "^6.0.3" }, "peerDependencies": { "@rsbuild/core": "^1.0.0 || ^2.0.0-0" } }, "sha512-dUhGMAwoTPNz6pz+gFCseqTWn0Gz+zrqBkCLmGlfGpc0OLF7W/m9eb23fLZjKtsCkhmueboje/v//rhCqRNVWQ=="],
+    "@rsbuild/plugin-svelte": ["@rsbuild/plugin-svelte@1.1.1", "", { "dependencies": { "svelte-loader": "3.2.4", "svelte-preprocess": "^6.0.3" }, "peerDependencies": { "@rsbuild/core": "^1.4.0 || ^2.0.0-0" }, "optionalPeers": ["@rsbuild/core"] }, "sha512-maRgnSH/8nAJKl8yhQyf8W07kzz/tOCK8zZLpOIL7dP1j3Pxir7Uiy98ikPq3fWhPIBBtIzpmY8FUaR44t2CJA=="],
 
     "@rspack/binding": ["@rspack/binding@1.7.8", "", { "optionalDependencies": { "@rspack/binding-darwin-arm64": "1.7.8", "@rspack/binding-darwin-x64": "1.7.8", "@rspack/binding-linux-arm64-gnu": "1.7.8", "@rspack/binding-linux-arm64-musl": "1.7.8", "@rspack/binding-linux-x64-gnu": "1.7.8", "@rspack/binding-linux-x64-musl": "1.7.8", "@rspack/binding-wasm32-wasi": "1.7.8", "@rspack/binding-win32-arm64-msvc": "1.7.8", "@rspack/binding-win32-ia32-msvc": "1.7.8", "@rspack/binding-win32-x64-msvc": "1.7.8" } }, "sha512-P4fbrQx5hRhAiC8TBTEMCTnNawrIzJLjWwAgrTwRxjgenpjNvimEkQBtSGrXOY+c+MV5Q74P+9wPvVWLKzRkQQ=="],
 
